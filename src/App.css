@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.pdf-container {
+  text-align: center;
+  width: 800px;
+  margin: 20px auto;
+  height: 80vh;
+  overflow-y: scroll;
+}
